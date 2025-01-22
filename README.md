@@ -1,2 +1,2 @@
-# data_cleaing_project_1
+# Calculating Free-to-Paid Conversion Rate with SQL
 My first data cleaning project

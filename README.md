@@ -31,6 +31,7 @@ Generate the subquery to get a table like this:
 
 
 Use the last query as a subquery and get the results:
+
 ![image alt](https://github.com/allenissuperme/Calculating-Free-to-Paid-Conversion-Rate-with-SQL/blob/main/Picture6.png?raw=true)
 
 Conversion rate is 6%

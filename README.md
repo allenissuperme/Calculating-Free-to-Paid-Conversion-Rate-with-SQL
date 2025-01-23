@@ -32,15 +32,16 @@ Generate the subquery to get a table like this:
 
 Use the last query as a subquery and get the results:
 
-![image alt](https://github.com/allenissuperme/Calculating-Free-to-Paid-Conversion-Rate-with-SQL/blob/main/Picture6.png?raw=true)
+![image alt](https://github.com/allenissuperme/Calculating-Free-to-Paid-Conversion-Rate-with-SQL/blob/main/Result.png?raw=true)
 
-Conversion rate is 6%
+__Conversion rate is 11%__
+
 First, consider the conversion rate and compare this metric to industry benchmarks or historical data. 
 ![image alt](https://github.com/allenissuperme/Calculating-Free-to-Paid-Conversion-Rate-with-SQL/blob/main/Picture5.png?raw=true) 
 
 Possible Interpretation:
 
-•	The conversion rate is low, meaning most students engage with free content but don't buy.
+•	The conversion rate is OK, but still meaning most students engage with free content but don't buy.
 
 •	There could be barriers to purchase (e.g., pricing, lack of trust, or competitors offering better deals).
 
@@ -54,9 +55,10 @@ Recommendations:
 
 •	Enhance the content experience to make users want to buy more.
 
+>
+>
 
-
-On average, students take 3.44 days after registering to watch content.
+__On average, students take 3.42 days after registering to watch content.__
 
 Possible Interpretation:
 
@@ -76,7 +78,7 @@ Recommendations:
 
 
 
-students take a long time (~52 days) from watching their first content to making a purchase.
+__students take a long time (~26 days) from watching their first content to making a purchase.__
 
  Possible Interpretation:
  
